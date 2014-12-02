@@ -3,7 +3,7 @@ sec-alarm
 
 A sec.pl alarm clock.
 
-Dependancies:
+Dependencies:
 sec.pl 
 aplay 
 
