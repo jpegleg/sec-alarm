@@ -7,6 +7,6 @@ exit 0
 trap traprestart HUP TERM INT
 
 while true; do 
-date > /tmp/date.pipe
+date > ~/sec-alarm/date.pipe
 sleep 1
 done
