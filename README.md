@@ -4,8 +4,8 @@ sec-alarm
 A sec.pl alarm clock.
 
 Dependencies:
-sec.pl 
-aplay 
+ - sec.pl 
+ - aplay 
 
 Get setup:
 sudo ./setup.sh
