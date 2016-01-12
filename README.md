@@ -15,3 +15,5 @@ vim ~/sec-alarm/alarm-clock.cfg
 
 And run it with the shell wrapper:
 ./run-alarm.sh
+
+Read the Simple Event Correlator documentation: https://simple-evcorr.github.io/
