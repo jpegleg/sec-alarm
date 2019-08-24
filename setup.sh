@@ -1,5 +1,5 @@
 #!/bin/bash
-wget http://hyalitepress.com/alarm.wav
+wget https://keeganbowen.com/alarm.wav
 mkdir ~/sec-alarm
 mkfifo ~/sec-alarm/date.pipe
 cp ./alarm.sh ~/sec-alarm/
