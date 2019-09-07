@@ -4,7 +4,7 @@ sec-alarm
 A sec.pl alarm clock.
 
 Dependencies:
- - simple event correlator https://simple-evcorr.github.io/ 
+ - simple event correlator (sec.pl) 
  - aplay 
 
 Get setup:
